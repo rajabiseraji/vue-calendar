@@ -165,6 +165,9 @@ export default {
 </script>
 
 <style lang="scss">
+.test {
+    color: inherit;
+}
 .vuec-range-input {
     position: relative;
     .vuec-popup {
